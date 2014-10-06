@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SIFT", "SIFT\SIFT.vcxproj", "{82BBA813-D3C2-4293-9D78-FFCF46843348}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Assignment3", "Assignment3\Assignment3.vcxproj", "{BCE5CA5E-86F0-4A1E-BE31-15E85A81C221}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Panorama", "Panorama\Panorama.vcxproj", "{F40D30E4-FC79-4EEB-8542-834E4092B474}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82BBA813-D3C2-4293-9D78-FFCF46843348}.Debug|Win32.ActiveCfg = Debug|Win32
+		{82BBA813-D3C2-4293-9D78-FFCF46843348}.Debug|Win32.Build.0 = Debug|Win32
+		{82BBA813-D3C2-4293-9D78-FFCF46843348}.Release|Win32.ActiveCfg = Release|Win32
+		{82BBA813-D3C2-4293-9D78-FFCF46843348}.Release|Win32.Build.0 = Release|Win32
+		{BCE5CA5E-86F0-4A1E-BE31-15E85A81C221}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BCE5CA5E-86F0-4A1E-BE31-15E85A81C221}.Debug|Win32.Build.0 = Debug|Win32
+		{BCE5CA5E-86F0-4A1E-BE31-15E85A81C221}.Release|Win32.ActiveCfg = Release|Win32
+		{BCE5CA5E-86F0-4A1E-BE31-15E85A81C221}.Release|Win32.Build.0 = Release|Win32
+		{F40D30E4-FC79-4EEB-8542-834E4092B474}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F40D30E4-FC79-4EEB-8542-834E4092B474}.Debug|Win32.Build.0 = Debug|Win32
+		{F40D30E4-FC79-4EEB-8542-834E4092B474}.Release|Win32.ActiveCfg = Release|Win32
+		{F40D30E4-FC79-4EEB-8542-834E4092B474}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
